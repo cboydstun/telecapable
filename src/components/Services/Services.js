@@ -1,5 +1,8 @@
 import React from 'react';
 import ScrollableAnchor from 'react-scrollable-anchor';
+
+import './Services.css';
+
 const ServicesOffered = [
   {
     title: 'Leadership Development',

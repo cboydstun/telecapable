@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './Footer.css';
+
 const socialSites = [
   {
     link: 'mailto:admin@telecapable.com',
@@ -7,7 +9,7 @@ const socialSites = [
   },
   {
     link: 'https://www.linkedin.com/company/telecapable/',
-    icon: 'icon-social-linkedin'
+    icon: 'fa-linkedin'
   }
 ];
 

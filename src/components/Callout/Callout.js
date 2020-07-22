@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './Callout.css';
+
 const CalloutSection = () => (
   <section className="callout">
     <div className="container text-center">

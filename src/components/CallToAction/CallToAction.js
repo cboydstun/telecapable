@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './CallToAction.css';
+
 const CallToAction = () => (
   <section className="content-section bg-primary text-white" id="contact">
     <div className="container text-center">
