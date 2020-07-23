@@ -39,7 +39,7 @@ const ServicesSections = () => (
         <div className="row">
           {ServicesOffered.map((service, index) => (
             <div
-              className="col-lg-3 col-md-6 mb-5 mb-lg-0"
+              className="row-item col-lg-3 col-md-6 mb-5 mb-lg-0"
               key={`service_${index}`}
             >
               <span className="service-icon rounded-circle mx-auto mb-3">
